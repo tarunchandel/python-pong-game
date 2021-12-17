@@ -3,7 +3,7 @@ from turtle import Turtle
 HEIGHT = 600
 WIDTH = 800
 SCORE_XCOR = int(round(WIDTH / 4))
-SCORE_YCOR = int(round(HEIGHT/2) - 120)
+SCORE_YCOR = int(round(HEIGHT / 2) - 120)
 
 
 class Score(Turtle):

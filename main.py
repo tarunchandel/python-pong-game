@@ -1,8 +1,8 @@
 from turtle import Screen, Turtle
-from bat import Bat
+
 from ball import Ball
+from bat import Bat
 from score import Score
-import time
 
 HEIGHT = 600
 WIDTH = 800
